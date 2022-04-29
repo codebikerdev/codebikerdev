@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codebikerdev! 
-- 👀 I’m interested in web development (front-end, back-end).
-- 🌱 I’m currently learning git, html, css, javascript.
+- 👀 I’m interested in web development (front-end).
+- 🌱 I’m currently learning Git, HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on good ideas, freedom, knowledge...
 - 📫 How to reach me: codebiker@yahoo.com
 
